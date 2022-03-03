@@ -1,1 +1,1 @@
-<?php header('location: /RecipeBook.html') ; ?>
+<?php header('location: /RB-homepage.html') ; ?>
