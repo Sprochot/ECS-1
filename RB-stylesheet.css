@@ -2,7 +2,7 @@ body {
     background-image: linear-gradient(to right, #C7CBFF, #979CD2);
 }
 p {
-  font-size: 24px;
+  font-size: 24pt;
   font-family: Bradley Hand;
   max-width: 40ch;
 }
@@ -24,14 +24,14 @@ h1 {
   border-radius: 5px;
 }
 h2 {
-  font-size: 28px;
+  font-size: 28pt;
 }
 .body {
 	font-family: "Optima";
 	line-height: 1.25;
 }
 .ingredients_list {
-	font-size: 24px;
+	font-size: 24pt;
 }
 .ingredients_body {
   max-width: 100%;
@@ -43,7 +43,7 @@ h2 {
   border-radius: 20px;
 }
 .contents_list {
-	font-size: 24px;
+	font-size: 24pt;
 }
 .contents_body {
   max-width: 100%;
